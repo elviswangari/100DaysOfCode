@@ -1,10 +1,42 @@
 # Daily Logs
 
-## Day 1: October 14, 2024
+## Day 0: October 14, 2024
 
 ### Progress
 
-- Started the **100DaysOfCode** challenge afresh, including **30ProjectsIn30Days**, **30DaysOfDataScience**, and **30DaysOfSQL**.
+- Set up for the **100DaysOfCode** challenge by organizing goals and projects.
+- Planned out **30ProjectsIn30Days**, **30DaysOfDataScience**, and **30DaysOfSQL** as part of the challenge.
+- Reviewed resources and tools for the upcoming Data Science and SQL challenges.
+
+### Tasks Completed
+
+- Created the overall project structure for the repository.
+- Defined key objectives and project scope for the next 100 days.
+- Drafted the outline for the **30DaysOfDataScience** series on Dev.to.
+
+### Lessons Learned
+
+- Learned the importance of thorough planning before starting a long-term challenge.
+- Understood how to better organize multiple concurrent projects and goals.
+
+### Challenges Faced
+
+- Deciding on the specific learning objectives for each challenge.
+- Managing the schedule to accommodate the different streams of work.
+
+### Next Steps
+
+- Begin coding for Day 1 of the **100DaysOfCode** challenge.
+- Write and publish the first Dev.to post for **30DaysOfDataScience**.
+- Start work on **Project 1**: Simple Todo App.
+
+---
+
+## Day 1: October 15, 2024
+
+### Progress
+
+- Officially started the **100DaysOfCode** challenge, including **30ProjectsIn30Days**, **30DaysOfDataScience**, and **30DaysOfSQL**.
 - Set up the project repository with directories for **30ProjectsIn30Days**, **30DaysOfDataScience**, and **30DaysOfSQL**.
 - Built the first project: "Simple Todo App" in JavaScript.
 
@@ -28,10 +60,10 @@
 
 ### Next Steps
 
-- Day 2 of **30DaysOfDataScience**: Begin working on data cleaning techniques.
+- Day 2 of **30DaysOfDataScience**: Cover data types (structured, unstructured, and semi-structured) and data collection methods (surveys, APIs, web scraping).
 - Day 2 of **30DaysOfSQL**: Dive deeper into JOIN operations and multi-table queries.
 - **Project 2**: Build a weather dashboard app using API data.
 
 ### Blog Post
 
-- [Starting with Data Science, SQL, and a Todo App](https://exampleblog.com/day1)
+- [Day 1: 30 Days of Data Science](https://dev.to/elviswangari/30-days-of-data-science-day-1-4k47)
